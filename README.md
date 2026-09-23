@@ -1,5 +1,4 @@
-# Itzy URL
-
+# URL Shortener
 A lightweight, secure URL shortener built with Python and Flask. It provides both a JSON REST API and a web interface to shorten long URLs, redirect short codes to original destinations, and prevent enumeration attacks and request spam.
 
 ---
